@@ -1,0 +1,3 @@
+document.querySelector(`#color`).addEventListener(`click`, () => alert(`It's green! Couldn't you tell from the button mouse-over color?`))
+document.querySelector(`#place`).addEventListener(`click`, () => alert(`My favorite place I HAVE been is probably the Grand Canyon or Gatlinburg, Tennessee. My favorite place I WANT to go is either Scotland, Greece, or Italy.`))
+document.querySelector(`#ritual`).addEventListener(`click`, () => alert(`What a good question! It's prayer for me.`))
